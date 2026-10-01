@@ -1,5 +1,5 @@
-# LeetCode-Java
-Java solutions for LeetCode 75 and LeetCode Top Interview 150.
+# LeetCode75-Java
+Java solutions for LeetCode 75.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
