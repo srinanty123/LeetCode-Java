@@ -11,4 +11,8 @@ Java solutions for LeetCode 75 and LeetCode Top Interview 150.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1768-merge-strings-alternately](https://github.com/srinanty123/LeetCode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/srinanty123/LeetCode-Java/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 <!---LeetCode Topics End-->
