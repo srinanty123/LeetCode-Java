@@ -6,11 +6,13 @@ Java solutions for LeetCode 75 and LeetCode Top Interview 150.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/srinanty123/LeetCode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/srinanty123/LeetCode-Java/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/srinanty123/LeetCode-Java/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Array
